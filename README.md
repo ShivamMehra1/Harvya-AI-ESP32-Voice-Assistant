@@ -245,15 +245,3 @@ In `menuconfig` under **Harvya AI Assistant**:
 | Board Type | Select your specific hardware board |
 | Wake Word | Configure offline wake word detection |
 
-
-## License
-
-This project is based on the original [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
-and retains its original MIT License (see `LICENSE`).
-
----
-
-## Credits
-
-- Original project: XiaoZhi ESP32 by 78/tenclass.net
-- Rebranded as **Harvya AI** for custom deployment
